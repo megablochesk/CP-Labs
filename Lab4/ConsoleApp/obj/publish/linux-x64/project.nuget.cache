@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "g6d712zaxdQNysWdz7ri4BXQhoEI9x5jqBgHzyL3z8c09GxUz1W2BjVAye6gmF2mtC59n/NCmLhtmb+ERoU92g==",
+  "success": true,
+  "projectFilePath": "E:\\Work\\Projects\\KNU Uni\\4 course\\Homework\\1 semester\\КП\\Labs\\SolutionsGitHub\\CP-Labs\\Lab4\\ConsoleApp\\ConsoleApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Megablochesk\\.nuget\\packages\\mcmaster.extensions.commandlineutils\\4.0.1\\mcmaster.extensions.commandlineutils.4.0.1.nupkg.sha512",
+    "C:\\Users\\Megablochesk\\.nuget\\packages\\system.componentmodel.annotations\\5.0.0\\system.componentmodel.annotations.5.0.0.nupkg.sha512",
+    "C:\\Users\\Megablochesk\\.nuget\\packages\\microsoft.netcore.app.runtime.linux-x64\\6.0.11\\microsoft.netcore.app.runtime.linux-x64.6.0.11.nupkg.sha512",
+    "C:\\Users\\Megablochesk\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.linux-x64\\6.0.11\\microsoft.aspnetcore.app.runtime.linux-x64.6.0.11.nupkg.sha512",
+    "C:\\Users\\Megablochesk\\.nuget\\packages\\microsoft.netcore.app.host.linux-x64\\6.0.11\\microsoft.netcore.app.host.linux-x64.6.0.11.nupkg.sha512"
+  ],
+  "logs": []
+}

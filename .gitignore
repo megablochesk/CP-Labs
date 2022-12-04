@@ -1,0 +1,26 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/Lab4/.vs/Lab4/FileContentIndex/c3c07eb6-a749-4b52-bfcf-9653e53be45f.vsidx
+*.vsidx
+/Lab4/.vs/Lab4/v17/.suo
+/Lab4/.vs/Lab4/DesignTimeBuild/.dtbcache.v2
+/Lab4/ConsoleApp/bin/Debug/net6.0
+/Lab4/ConsoleApp/obj/Debug/net6.0/ref
+/Lab4/ConsoleApp/obj/Debug/net6.0/refint
+/Lab4/LabsLibrary/bin/Debug/net6.0
+/Lab4/LabsLibrary/obj/Debug/net6.0/refint/LabsLibrary.dll
+/Lab4/LabsLibrary/obj/Debug/net6.0/ref/LabsLibrary.dll
+/Lab4/LabsLibrary/obj/Debug/net6.0/LabsLibrary.pdb
+/Lab4/LabsLibrary/obj/Debug/net6.0/LabsLibrary.dll
+/Lab4/LabsLibrary/obj/Debug/net6.0/LabsLibrary.csproj.FileListAbsolute.txt
+/Lab4/LabsLibrary/obj/Debug/net6.0/LabsLibrary.csproj.CoreCompileInputs.cache
+/Lab4/ConsoleApp/obj/Debug/net6.0/ConsoleApp.pdb
+/Lab4/ConsoleApp/obj/Debug/net6.0/ConsoleApp.genruntimeconfig.cache
+/Lab4/ConsoleApp/obj/Debug/net6.0/ConsoleApp.dll
+/Lab4/ConsoleApp/obj/Debug/net6.0/ConsoleApp.csproj.FileListAbsolute.txt
+/Lab4/ConsoleApp/obj/Debug/net6.0/ConsoleApp.csproj.CoreCompileInputs.cache
+/Lab4/ConsoleApp/obj/Debug/net6.0/ConsoleApp.csproj.CopyComplete
+/Lab4/ConsoleApp/obj/Debug/net6.0/ConsoleApp.csproj.AssemblyReference.cache
+/Lab4/ConsoleApp/obj/Debug/net6.0/apphost.exe

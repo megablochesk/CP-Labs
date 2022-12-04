@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "vYnwPZv63z4d/7e85p6pk6NgFaCapKeiJrMR0LUYLIafWkwKDz9VFySxYMLml7CN/KS19INbb9rwfR1CYsI3jQ==",
+  "success": true,
+  "projectFilePath": "E:\\Work\\Projects\\KNU Uni\\4 course\\Homework\\1 semester\\КП\\Labs\\SolutionsGitHub\\CP-Labs\\Lab4\\ConsoleApp\\ConsoleApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Megablochesk\\.nuget\\packages\\mcmaster.extensions.commandlineutils\\4.0.1\\mcmaster.extensions.commandlineutils.4.0.1.nupkg.sha512",
+    "C:\\Users\\Megablochesk\\.nuget\\packages\\system.componentmodel.annotations\\5.0.0\\system.componentmodel.annotations.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
